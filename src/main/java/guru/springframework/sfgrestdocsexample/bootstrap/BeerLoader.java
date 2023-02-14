@@ -11,7 +11,7 @@ import java.math.BigDecimal;
  * Created by jt on 2019-05-17.
  */
 @Component
-public class BeerLoader implements CommandLineRunner {
+public class BeerLoader implements CommandLineRunner { 
 
     private final BeerRepository beerRepository;
 
